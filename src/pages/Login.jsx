@@ -17,10 +17,9 @@ const Login = () => {
             <a className="forgot" href="">
               Forgot Password?
             </a>
-            <button className="button">
-              
-              <a className='ae' href={'/model'}>Log In</a>
-            </button>
+            <button className="start-button" onClick={() => navigate("/model")}>
+          Register
+        </button>
             <div className="empty">
               <div className="line-or">
                 <div className="line"></div>
