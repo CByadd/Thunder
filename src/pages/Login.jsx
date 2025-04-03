@@ -43,7 +43,7 @@ const Login = () => {
             </div>
           </div>
           <div className="out-box">
-            <img className="king1" src={shoe}></img>
+            
           </div>
         </div>
       </div>
