@@ -1,6 +1,5 @@
 import React from 'react'
 import './../styles/Register.css';
-import shoes from './../../public/7bc95f8094338be40808d86277912f15.jpg';
 const Register = () => {
   return (
     <>

@@ -1,6 +1,5 @@
 import React from 'react'
 import './../styles/Login.css';
-import shoe  from './../../public/images shoe.jpeg';
 import { GoHorizontalRule } from "react-icons/go";
 import { Link } from 'react-router-dom';
 const Login = () => {
