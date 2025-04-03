@@ -6,7 +6,7 @@ const Register = () => {
       <div className="reg">
         <div className="vbig">
           <div className="out-box">
-            <img className="king1" src={shoes}></img>
+            
           </div>
           <div className="iinner-box">
             <p className="regis">Sign up</p>
