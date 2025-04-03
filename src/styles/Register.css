@@ -1,0 +1,179 @@
+*{margin: 0px;
+padding: 0px;}
+.reg{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width:100% ;
+  height: 729px;
+  
+
+}
+.iinner-box{
+  width: 500px;
+  height: 600px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 18px;
+  
+    
+  
+}
+
+.shoess{
+  width: 500px;
+  height: 600px;
+  background-color: black;
+}
+.regis{
+  font-size: 27px;
+  font-weight: bold;
+  margin-top: 100px;
+}
+.con{
+  color: rgb(62, 52, 52);
+  font-size: 15px;
+  margin-top: 8px;
+
+}
+
+
+.name-box{
+  width: 50dvh;
+  height: 32px;
+  margin-top: 10px;
+  border: solid black;
+  border-width: 2px;
+
+}
+
+
+
+.e-box{
+    width: 50dvh;
+  height: 32px;
+  margin-top: 10px;
+   border: solid black;
+  border-width: 2px;
+  
+
+}
+.p-box{
+    width: 50dvh;
+  height: 32px;
+  margin-top: 10px;
+   border: solid black;
+  border-width: 2px;
+
+}
+.sign-u{
+  font-size: 22px;
+  padding-left: 16dvh;
+  padding-right: 16dvh;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  margin-top: 25px;
+  background-color: rgb(57, 193, 147);
+  color: white;
+  border: none;
+  border-radius: 18px;
+  transition: 0.2s;
+}
+.sign-u:hover{
+  background-color: white;
+  color:rgb(57, 193, 147) ;
+  border: solid rgb(57, 193, 147);
+  border-width: 2px;
+  box-shadow: 7px 7px 50px;
+}
+.empy{
+  display: flex;
+  flex-direction: column;
+  
+}
+.go{
+ font-size: 20px;
+ padding-left: 28px;
+ padding-right: 28px;
+ padding-top: 4px;
+ padding-bottom: 4px;
+ background-color:rgb(255, 255, 255);
+ color: rgb(255, 140, 0);
+ border: solid black;
+ border-width: 2px;
+}
+.go:hover{
+  background-color:rgb(255, 140, 0);
+  color: white;
+}
+.face{
+  font-size: 20px;
+ padding-left: 25px;
+ padding-right: 25px;
+ padding-top: 4px;
+ padding-bottom: 4px;
+ margin-left: 20px;
+ border: solid black;
+ border-width: 2px;
+ background-color: rgb(36, 36, 253);
+ color: white;
+ transition: 0.2s;
+}
+.face:hover{
+  background-color: white;
+  color: rgb(36, 36, 253);
+  border: solid rgb(36, 36, 253);
+  border-width: 2px;
+
+}
+.one{
+  margin-top: 30px;
+
+}
+.don{
+  margin-top: 60px;
+}
+.vbig{
+  display: flex;
+  border: solid rgb(54, 219, 161);
+  border-width: 3px;
+  border-radius: 18px;
+  box-shadow: 7px 7px 30px ;
+
+ 
+}
+
+  
+.out-box{
+  width: 500px;
+  height: 600px;
+  /* background-color: black; */
+ 
+}
+.king1{
+  width: 100%;
+  height: 100%;
+  border-radius: 18px;
+ 
+
+}
+.sign-link{
+  text-decoration: none;
+}
+.line{
+  height: 1px;
+  background-color: rgb(54, 49, 49);
+  width: 120px;
+  margin-top: 30px;
+}
+.line-or{
+  display: flex;
+}
+.or{
+  margin-top: 19px;
+  margin-left: 5px;
+  margin-right: 5px;
+  color: rgb(73, 72, 72);
+}
